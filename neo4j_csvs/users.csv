@@ -1,0 +1,11 @@
+user_id,username,join_date,follower_count,verified
+U1,user_1,2020-11-01,4167,False
+U2,user_2,2022-08-01,8096,True
+U3,user_3,2023-08-01,1846,True
+U4,user_4,2021-09-01,1216,True
+U5,user_5,2020-03-01,7952,False
+U6,user_6,2023-05-01,6139,False
+U7,user_7,2022-08-01,3304,False
+U8,user_8,2023-10-01,9375,True
+U9,user_9,2022-11-01,6044,True
+U10,user_10,2021-01-01,5261,True
